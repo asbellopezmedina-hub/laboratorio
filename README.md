@@ -41,7 +41,7 @@
   </div>
 
  <div class="card">
-    <img src="plc.png" alt="hola">
+    <img src="PLC.png" alt="hola">
     <h3> PLC 1500 </h3>
   </div>
 
