@@ -36,12 +36,12 @@ MATERIAL
 <body>
 
   <div class="card">
-    <img src="palpa.png" alt="Palapa amarilla">
+    <img src="400.png" alt="Palapa amarilla">
     <h2> PLC 400 CON PERIFERIA </h2>
   </div>
 
  <div class="card">
-    <img src="PLC.png" alt="hola">
+    <img src="1500.png" alt="hola">
     <h3> PLC 1500 </h3>
   </div>
 
