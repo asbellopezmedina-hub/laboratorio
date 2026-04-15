@@ -1,0 +1,2 @@
+# laboratorio
+equipos en laboratorio
